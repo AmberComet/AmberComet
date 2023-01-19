@@ -1,6 +1,6 @@
 - I’m @AmberComet
 - I am a CS student currently working on my BA of CIS
-- I am Currently Learning Java but im also intrested in learing Python and C#
+- I am Currently Learning Java, Python and Rust
 - [My Twitter](https://twitter.com/CrystalComet92)
 
 <!---
