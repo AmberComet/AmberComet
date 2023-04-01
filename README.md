@@ -1,4 +1,4 @@
-- I’m @AmberComet
+- I’m Joshua Couch
 - I am a CS student currently working on my BA of CIS
 - I am Currently Learning Java, Python and Rust
 
